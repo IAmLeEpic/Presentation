@@ -1,0 +1,42 @@
+body {
+	background-image: url(bg2.jpg);
+	-webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.aboutTitle {
+	font-size: 80px;
+	color: white;
+	text-align: center;
+}
+
+.aboutContext{
+	color: white;
+	font-size: 40px;
+	text-align: center;
+	margin-top: 200px;
+}
+
+.pcImg {
+	background-image: url(pcImg.png);
+	width: 400px;
+	height: 400px;
+	text-align: center;
+	margin-left: 37%;
+}
+
+.musicImg {
+    background-image: url(musicImg.png);
+	width: 358px;
+	height: 250px;
+	margin-left: 39%;
+}
+
+.guitarImg {
+    background-image: url(guitarImg.png	);
+	width: 600px;
+	height: 312px;
+	margin-left: 30%;
+}

@@ -1,0 +1,27 @@
+body {
+	background-image: url(bg.jpg);
+	-webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.title {
+	font-size: 80px;
+	color: white;
+	text-align: center;
+}
+
+a:link, a:active {
+	background-color: #f44336;
+    color: white;
+    margin-left: 47%;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover, a:active {
+    background-color: red;
+}
